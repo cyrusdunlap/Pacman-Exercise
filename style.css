@@ -1,0 +1,7 @@
+body {
+    background-image: repeating-conic-gradient(from 60deg,
+    #f67280 0deg 60deg,
+    #4B8E7F 60deg 120deg);
+
+    background-size: 90px 90px;
+}
