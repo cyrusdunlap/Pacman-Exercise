@@ -5,3 +5,14 @@ body {
 
     background-size: 90px 90px;
 }
+
+.button1 {
+    position: absolute;
+    z-index: 3;
+}
+
+.button2 {
+    position: absolute;
+    left: 110px;
+    z-index: 3;
+}
